@@ -1,0 +1,28 @@
+body {
+    background: #eee;
+    padding-bottom: 100px;
+}
+
+img {
+    width: 100%;
+}
+
+h2 {
+    margin: 100px 0 200px 0;
+    text-align: center;
+}
+
+.btn {
+    width: 100%;
+}
+
+.btn-blocks {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    .gall-block {
+        margin-top: 20px;
+    }
+}
